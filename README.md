@@ -1,16 +1,15 @@
-## Hi there 👋
+My name is Kirill Lukianov, I am a software engineer currently studying at [Hive Helsinki](https://www.hive.fi/en/) (part of [42 Network](https://www.42network.org/)).
 
-<!--
-**kirkram/kirkram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I’m currently learning C++, Javascript and React
+- 🔥 I'm passionate about performance in applications and games
+- ⚡ Fun fact: I play several musical instruments 
+(🎸🎹 :🥁)
 
-Here are some ideas to get you started:
+### Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My Skills](https://skillicons.dev/icons?i=c,cpp,)
+
+### Other tools
+![My Tools](https://skillicons.dev/icons?i=git,bash,ableton,unity,unreal)
+
+![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirkram&theme=tokyonight)
