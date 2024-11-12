@@ -14,6 +14,9 @@ My name is Kirill Lukianov, I am a software engineer currently studying at [Hive
 - ⚡ Fun fact: I play several musical instruments 
 (🎸🎹 :🥁)
 
+📫 How to reach me:
+You can find me on [LinkedIn](https://www.linkedin.com/in/kirill-l-904790334/) or reach out with email starry_tilts.0x@icloud.com.
+
 --------------
 
 ![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirkram&theme=tokyonight)
