@@ -1,9 +1,9 @@
 ## Programming Languages
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,typescript)
 
 ## Other tools
-![My Tools](https://skillicons.dev/icons?i=git,bash,ableton,unity,unreal,react,nodejs,typescript)
+![My Tools](https://skillicons.dev/icons?i=git,bash,ableton,unity,unreal,react,nodejs)
 
 --------------
 
