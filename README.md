@@ -3,7 +3,7 @@
 ![My Skills](https://skillicons.dev/icons?i=c,cpp)
 
 ## Other tools
-![My Tools](https://skillicons.dev/icons?i=git,bash,ableton,unity,unreal,react)
+![My Tools](https://skillicons.dev/icons?i=git,bash,ableton,unity,unreal,react,node,typescript)
 
 --------------
 
