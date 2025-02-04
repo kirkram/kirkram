@@ -1,16 +1,23 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/809619c1-03e6-4504-b92b-dcfaa7109410" width=60%>
+</p>
 
-<!--
-**kirkram/kirkram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming Languages
+![My Skills](https://skillicons.dev/icons?i=c,cpp,typescript,python)
 
-Here are some ideas to get you started:
+## Other tools
+![My Tools](https://skillicons.dev/icons?i=bash,react,nodejs,tailwind)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--------------
+My name is Kirill Lukianov, I am a software developer.
+
+- 🎓 Building projects with Typescript, React, Python, C and C++
+- 🔥 Caring about performance in applications and games
+- ⚡ Fun fact: I play several musical instruments 
+(🎸🎹 :🥁)
+
+📫 How to reach me:
+You can find me on [LinkedIn](https://www.linkedin.com/in/kirill-l-904790334/) or reach out with email klukiano@student.hive.fi
+
+<!-- -------------- --!>
+<!--(![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirkram&theme=dark&show_icons=true&border_radius=30&hide_title=true&include_all_commits=true))--!>
